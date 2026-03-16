@@ -236,7 +236,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Zixuan Zhang
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
-Reference: YouTube Channel - Zero Analyst (https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS&index=1)
+- **Reference**: YouTube Channel - Zero Analyst (https://www.youtube.com/watch?v=ChIQjGBI3AM&list=PLF2u7Zn-dIxbeais0AkBxUqdWM1hnSJDS&index=1)
 
 ## Connect with me: Zixuan Zhang
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
