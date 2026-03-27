@@ -244,7 +244,6 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ## Notes
 This project is part of my professional portfolio, designed to demonstrate the SQL skills and business acumen required for Data Analyst positions. All code is written to industry standards, with clean, readable syntax and a focus on solving real business problems.
-Reference: YouTube Channel - Zero Analyst
 
 
 Thank you very much!
