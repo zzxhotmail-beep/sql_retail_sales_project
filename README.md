@@ -1,11 +1,13 @@
 # Retail Sales Analysis | SQL Data Analyst Portfolio
 
 ## Project Overview
+
 This portfolio project analyzes retail sales data using PostgreSQL, simulating real-world data analyst workflows. The project covers the full analysis pipeline: database setup, data cleaning, exploratory data analysis (EDA), advanced SQL querying, and business-focused insights.
 
 It demonstrates my ability to translate raw data into actionable business recommendations—critical skills for driving retail business growth as a Data Analyst.
 
 ## Core Objectives
+
 - Design and implement a retail sales database to store transactional data efficiently.
 - Perform data cleaning to ensure data accuracy and reliability.
 - Conduct exploratory data analysis (EDA) to identify patterns and trends.
@@ -13,6 +15,7 @@ It demonstrates my ability to translate raw data into actionable business recomm
 - Present findings clearly and connect insights to business decision-making.
 
 ## Technical Skills Demonstrated
+
 - **SQL (PostgreSQL)**: Database creation, table design, data population
 - **Data Cleaning**: Handling null/missing values for data integrity
 - **Exploratory Data Analysis (EDA)**: Aggregate functions, DISTINCT counts, and trend analysis
@@ -232,10 +235,11 @@ GROUP BY shift
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
-## File Description
+## How to Run
 
-1. **Data File**: ` SQL - Retail Sales Analysis_utf.csv` 
-2. **Run the Queries**: Use the SQL queries provided in the `sql_queries_p1.sql` file to perform the analysis.
+1. Create the database and tables using sql_queries_p1.sql
+2. Import the dataset (retail_sales.csv)
+3. Execute queries to replicate analysis and generate insights
 
 ## Author - Zixuan Zhang
 
