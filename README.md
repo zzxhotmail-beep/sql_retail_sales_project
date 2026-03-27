@@ -238,7 +238,7 @@ This project provides a thorough introduction to SQL for data analysts, encompas
 ## Author - Zixuan Zhang
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
+- **LinkedIn**: [My Professional Profile](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
 
 ## Notes
 
