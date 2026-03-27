@@ -1,18 +1,23 @@
-# Retail Sales Analysis SQL Project
+# Retail Sales Analysis | SQL Data Analyst Portfolio
 
 ## Project Overview
+This portfolio project focuses on retail sales data analysis using PostgreSQL, simulating real-world data analyst workflows. I designed and implemented a complete analysis pipeline, from database setup and data cleaning to exploratory data analysis (EDA) and business-focused querying, to uncover sales trends, customer behavior, and product performance insights.
 
-**Project Title**: Retail Sales Analysis  
-**Database**: `sql_project_p1`
+The project showcases my proficiency in SQL fundamentals and advanced techniques, as well as my ability to connect data analysis to business decision-making—critical for driving retail business growth.
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+## Core Objectives
+1. Design and implement a retail sales database to store transactional data efficiently.
+2. Perform data cleaning to ensure data accuracy and reliability for analysis.
+3. Conduct exploratory data analysis (EDA) to understand dataset characteristics and identify initial patterns.
+4. Develop targeted SQL queries to answer business-critical questions and extract actionable insights.
+5. Present findings in a clear, concise manner that aligns with business stakeholders’ needs.
 
-## Objectives
-
-1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
-2. **Data Cleaning**: Identify and remove any records with missing or null values.
-3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+## Technical Skills Demonstrated
+1. SQL (PostgreSQL): Database creation, table design, and data population.
+2. Data Cleaning: Identifying and removing null/missing values to ensure data integrity.
+3. Exploratory Data Analysis (EDA): Using aggregate functions to summarize dataset metrics.
+4. Advanced SQL Techniques: Window functions (RANK), CTEs, CASE statements, GROUP BY, and filtering to solve complex business problems.
+5. Business Acumen: Translating retail business questions into technical SQL queries and deriving actionable insights.
 
 ## Project Structure
 
@@ -235,10 +240,11 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - Zixuan Zhang
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
-- **Reference**: YouTube Channel - Zero Analyst
-
-## Connect with me: Zixuan Zhang
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
+
+## Notes
+This project is part of my professional portfolio, designed to demonstrate the SQL skills and business acumen required for Data Analyst positions. All code is written to industry standards, with clean, readable syntax and a focus on solving real business problems.
+Reference: YouTube Channel - Zero Analyst
 
 
 Thank you very much!
