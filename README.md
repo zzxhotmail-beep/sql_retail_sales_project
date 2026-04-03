@@ -229,23 +229,7 @@ GROUP BY shift
 
 This project provides a thorough introduction to SQL for data analysts, encompassing database setup, data cleaning, exploratory data analysis, and business-focused SQL queries. The findings can inform business decisions by revealing sales patterns, customer behavior, and product performance trends.
 
-## How to Run
-
-1. Create the database and tables using sql_queries_p1.sql
-2. Import the dataset (retail_sales.csv)
-3. Execute queries to replicate analysis and generate insights
-
 ## Author - Zixuan Zhang
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
 - **LinkedIn**: [My Professional Profile](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
-
-## Notes
-
-This project is part of my professional portfolio and demonstrates my ability to:
-- Write efficient SQL queries
-- Perform structured data analysis
-- Transform raw data into actionable business insights
-
-
-Thank you very much!
