@@ -1,4 +1,4 @@
-# Retail Sales Analysis | SQL Data Analyst Portfolio
+# Retail Sales Analysis | SQL Portfolio Project
 
 ## Project Overview
 
